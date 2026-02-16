@@ -1,6 +1,8 @@
+![Cracken](/assets/cracken_banner.png)
+
 # Cracken
 
-_This project is still in development, it will be announced and released together with NetHydra._
+_This project is under development._
 
 #### Manual book
 - [installing Cracken]() - The documentation containt **How to**.
