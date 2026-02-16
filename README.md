@@ -12,3 +12,9 @@ _This project is under development._
 
 
 > _Cracken is part of NetHydra (Formerly known as HydraPWK)_
+
+
+#### Roadmap
+- [ ] Introduction announcement.
+- [ ] Documentation (Manual guide).
+- [ ] Release.
